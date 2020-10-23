@@ -1,0 +1,17 @@
+section {
+    border: 1px solid red;
+}
+
+.info {
+    display: flex;
+    flex: 1 0 auto;
+}
+
+.image {
+    border: 5px dotted blue;
+}
+
+img {
+    max-height: 90%;
+    max-width: 100%;
+}
